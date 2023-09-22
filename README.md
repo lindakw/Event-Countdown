@@ -1,7 +1,7 @@
 # Event-Countdown-Timer
 ![Countdown Timer Demo](demo.gif)
 
-A simple countdown timer created using JavaScript, HTML, and CSS. This project allows you to set a specific date and time, and it will count down the time remaining until that date and time is reached.
+A simple countdown timer created using JavaScript, HTML, and CSS. This project allows you to set a titled and a specific date, and it will count down the time remaining until that date and time is reached.
 
 ## Table of Contents
 
